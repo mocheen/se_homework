@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+3123004223/similarity_detection/models/sgns.literature.bigram-char
+3123004223/similarity_detection/models/sgns.literature.word
+.coverage
+coverage.xml
